@@ -5,7 +5,7 @@ mybd = pymysql.connect(
     host = "localhost",
     user = "root",
     password = "",
-    database = "pythontest"
+    database = "dbName"
 )
 mycursor = mybd.cursor()
 
