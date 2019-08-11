@@ -1,3 +1,4 @@
+#install pyautogui package
 import pyautogui
 
 print(pyautogui.position())          #get position of input
